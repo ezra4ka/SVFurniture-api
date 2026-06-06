@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6a8696c0-aa19-4735-a8aa-5cf5b5fadba6" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ezra4ka/sVFurniture/api/SVFurnitureAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ezra4ka/sVFurniture/api/SVFurnitureAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +20,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="11" />
+    <option name="cachedIndexableFilesCount" value="13" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -61,6 +62,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0006555875519967" />
+      <entry key="S2" value="1.2736733756579106" />
+      <entry key="S5" value="2.081849859814503" />
+      <entry key="S10" value="2.7782101724500947" />
+      <entry key="S30" value="3.5121792252284885" />
+      <entry key="S60" value="3.7441673608054833" />
+      <entry key="M2" value="3.86894155019105" />
+      <entry key="M5" value="3.946800744283175" />
+      <entry key="M10" value="3.9732691985432864" />
+      <entry key="M15" value="3.9821501764342377" />
+      <entry key="M30" value="3.991060408525699" />
+      <entry key="H1" value="3.9955265277503185" />
+      <entry key="H2" value="3.9977623439219334" />
+      <entry key="H4" value="3.9988809418694373" />
+      <entry key="D1" value="3.999813458345651" />
+      <entry key="W1" value="3.9999733504092823" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="5.710023425192492E-7" />
+      <entry key="MS500" value="0.05640633909955577" />
+      <entry key="S2" value="0.5017926872820927" />
+      <entry key="S5" value="0.9337695557896287" />
+      <entry key="S10" value="1.294636162230021" />
+      <entry key="S30" value="1.7071391471489177" />
+      <entry key="S60" value="1.8446156472699584" />
+      <entry key="M2" value="1.9199127414167432" />
+      <entry key="M5" value="1.9673689396485678" />
+      <entry key="M10" value="1.983583275462199" />
+      <entry key="M15" value="1.9890328913433812" />
+      <entry key="M30" value="1.994505098154618" />
+      <entry key="H1" value="1.997249705672451" />
+      <entry key="H2" value="1.998624141167638" />
+      <entry key="H4" value="1.9993118925643958" />
+      <entry key="D1" value="1.9998852906937938" />
+      <entry key="W1" value="1.9999836123504218" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7900413127203687" />
+      <entry key="MS500" value="0.969937310461204" />
+      <entry key="S2" value="1.6144370549933664" />
+      <entry key="S5" value="2.8546739657663758" />
+      <entry key="S10" value="3.9374242057657436" />
+      <entry key="S30" value="5.1502846645662945" />
+      <entry key="S60" value="5.550045511832668" />
+      <entry key="M2" value="5.768309162139937" />
+      <entry key="M5" value="5.905652291908889" />
+      <entry key="M10" value="5.9525424036219805" />
+      <entry key="M15" value="5.968298158568331" />
+      <entry key="M30" value="5.984117259249786" />
+      <entry key="H1" value="5.992050656162687" />
+      <entry key="H2" value="5.996023332404023" />
+      <entry key="H4" value="5.9980111669933915" />
+      <entry key="D1" value="5.999668458473134" />
+      <entry key="W1" value="5.999952635225823" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
@@ -118,6 +178,8 @@
       <workItem from="1780764393658" duration="541000" />
       <workItem from="1780765453666" duration="8000" />
       <workItem from="1780765738175" duration="6000" />
+      <workItem from="1780765753493" duration="225000" />
+      <workItem from="1780770592347" duration="179000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
