@@ -12,6 +12,8 @@ public interface SVFurnitureAPI {
 
     String getCustomId(ItemStack stack);
 
+    ItemStack getCustomItem(String id);
+
     NamespacedKey getItemNamespace();
 //dfsdd
 }

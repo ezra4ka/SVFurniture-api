@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a8696c0-aa19-4735-a8aa-5cf5b5fadba6" name="Changes" comment="Initial commit" />
+    <list default="true" id="6a8696c0-aa19-4735-a8aa-5cf5b5fadba6" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="16" />
+    <option name="cachedIndexableFilesCount" value="11" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -52,7 +54,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SVRP-DEV/SVFurniture-api.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/ezra4ka/SVFurniture-api.git&quot;,
     &quot;accountId&quot;: &quot;da130872-b0e3-41f9-8b48-4b8f269773bf&quot;
   }
 }</component>
@@ -113,7 +115,9 @@
       <option name="presentableId" value="Default" />
       <updated>1780084902839</updated>
       <workItem from="1780762666646" duration="700000" />
-      <workItem from="1780764393658" duration="374000" />
+      <workItem from="1780764393658" duration="541000" />
+      <workItem from="1780765453666" duration="8000" />
+      <workItem from="1780765738175" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
