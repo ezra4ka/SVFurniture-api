@@ -72,8 +72,4 @@ public class FurnitureRightClickEvent extends Event implements Cancellable {
     public @NotNull HandlerList getHandlers() {
         return HANDLER_LIST;
     }
-
-    public static @NotNull HandlerList getHandlerList() {
-        return HANDLER_LIST;
-    }
 }
